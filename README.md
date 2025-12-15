@@ -1,8 +1,8 @@
 ## Hello, I'm Sahasra
 # 💫 About Me:
-👩‍💻 ECE undergraduate at NIT Warangal  
-🔧 Learning Flask and building backend-focused web applications  
-⚡ Strong interest in Digital Electronics and Computer Architecture  
+👩‍💻 ECE undergraduate at NIT Warangal   
+⚡ Strong interest in Digital Electronics and Computer Architecture 
+🔧 Currently learning Flask, and Jinja templating
 🤖 Dabbled in Machine Learning and familiar with basic concepts  
 🔬 Curious about science, technology, and hands-on project learning
 
